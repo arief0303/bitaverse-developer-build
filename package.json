@@ -1,0 +1,29 @@
+{
+  "name": "babylonjs-nextjs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@heroicons/react": "v1",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "autoprefixer": "^10.4.13",
+    "babylonjs": "^5.47.0",
+    "babylonjs-charactercontroller": "^0.4.4-alpha.7",
+    "babylonjs-gui": "^5.47.0",
+    "babylonjs-inspector": "^5.47.0",
+    "babylonjs-loaders": "^5.47.0",
+    "next": "^13.1.6",
+    "postcss": "^8.4.21",
+    "react": "^18.2.0",
+    "react-collapse": "^5.1.1",
+    "react-dom": "^18.2.0",
+    "react-tabs": "^6.0.0",
+    "styled-components": "^5.3.6",
+    "tailwindcss": "^3.2.7"
+  },
+  "devDependencies": {
+    "@babylonjs/inspector": "^5.47.0"
+  }
+}
